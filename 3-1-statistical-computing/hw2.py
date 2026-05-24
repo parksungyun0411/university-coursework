@@ -137,17 +137,17 @@ len(x)
 
 #(b)
 
-sp.sum(x)
+np.sum(x)
 
 #(c)
 
-sp.average(x)
+np.average(x)
 
 #(d)
 
-sp.var(x,ddof=1)
+np.var(x,ddof=1)
 
-sp.std(x,ddof=1)
+np.std(x,ddof=1)
 
 #(e)
 
