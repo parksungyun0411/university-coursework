@@ -5,7 +5,7 @@
 규모가 큰 졸업 프로젝트 및 팀 프로젝트는 별도 저장소로 분리되어 있다:
 
 - 🎓 [`jeju-emotion-analysis`](https://github.com/parksungyun0411/jeju-emotion-analysis) — 졸업 프로젝트 (제주어 다중감정분류)
-- 🎮 [`liar-game-network`](https://github.com/parksungyun0411/liar-game-network) — 네트워크 프로그래밍 팀 프로젝트 (라이어 게임)
+- 🎮 [`liar-game`](https://github.com/parksungyun0411/liar-game) — 네트워크 프로그래밍 팀 프로젝트 (라이어 게임)
 
 ## 디렉토리 구조
 
