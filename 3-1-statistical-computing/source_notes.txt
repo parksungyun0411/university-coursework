@@ -1,0 +1,17 @@
+import pandas as pd
+import numpy as np
+import scipy as sp
+from scipy import stats
+import seaborn as sns
+
+import statsmodels.formula.api as smf
+import statsmodels.api as sm
+import matplotlib.pyplot as plt
+sns.set()
+%precision 3
+
+%matplotlib inline
+
+import sys
+!{sys.executable} -m pip install stemgraphic
+import stemgraphic

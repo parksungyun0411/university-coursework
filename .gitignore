@@ -1,0 +1,30 @@
+# Compiled / build artifacts
+*.class
+*.o
+*.exe
+*.out
+out/
+build/
+bin/
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (mostly excluded - per-folder README notes which are kept)
+*.xlsx
+*.xls
