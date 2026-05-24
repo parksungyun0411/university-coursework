@@ -38,7 +38,7 @@ boot_se <- apply(Vec, 2, sd)
 boot_se
 
 #3-a
-ethanol <- read.csv("C:/Users/psyreo/Desktop/ethanol.csv")
+ethanol <- read.csv("ethanol.csv")
 ethanol$NOx <- ethanol$NOx[order(ethanol$E)] 
 ethanol$E <- sort(ethanol$E)
 

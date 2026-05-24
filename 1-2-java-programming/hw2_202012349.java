@@ -1,4 +1,4 @@
-package hw2_202012349;
+
 
 import java.util.Scanner;
 

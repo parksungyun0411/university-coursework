@@ -1,6 +1,8 @@
 // Prim
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 #include <cstdio>
+#include <climits>
 
 using namespace std;
 
@@ -127,7 +129,7 @@ int main()
 }
 
 
-/* ±æÀÌ¸¦ ±â¾ïÇÏ´Â dijkstra
+/* ï¿½ï¿½ï¿½Ì¸ï¿½ ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ dijkstra
 #include <bits/stdc++.h>
 #include <cstdio>
 
@@ -259,7 +261,7 @@ int main()
 }
 */
 
-/*°æ·Î¸¦ ±â¾ïÇÏ´Â dijkstra
+/*ï¿½ï¿½Î¸ï¿½ ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ dijkstra
 #include <bits/stdc++.h>
 #include <cstdio>
 

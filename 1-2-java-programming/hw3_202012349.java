@@ -1,4 +1,4 @@
-package hw3_202012349;
+
 
 import java.util.*;
 public class hw3_202012349 {
