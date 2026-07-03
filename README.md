@@ -9,19 +9,19 @@
 
 ## 디렉토리 구조
 
-| 학기 | 폴더 | 과목 | 언어 |
-|------|------|------|------|
-| 1-1 | [`1-1-c-programming`](./1-1-c-programming) | C 프로그래밍 | C |
-| 1-2 | [`1-2-python-basics`](./1-2-python-basics) | 프로그래밍을 통한 문제해결 | Python |
-| 1-2 | [`1-2-java-programming`](./1-2-java-programming) | Java 프로그래밍 | Java |
-| 2-1 | [`2-1-data-structures`](./2-1-data-structures) | 자료구조 및 알고리즘 | C |
-| 2-1 | [`2-1-system-programming`](./2-1-system-programming) | 시스템 프로그래밍 | C |
-| 2-2 | [`2-2-algorithms`](./2-2-algorithms) | 알고리즘 (Prim/Dijkstra/Cut Vertex) | Java, C++ |
-| 2-2 | [`2-2-database`](./2-2-database) | 데이터베이스 (B+Tree, Slotted Page) | C++ |
-| 3-1 | [`3-1-statistical-computing`](./3-1-statistical-computing) | 통계전산처리 | Python, Jupyter |
-| 4-1 | [`4-1-regression-analysis`](./4-1-regression-analysis) | 회귀분석 텀 프로젝트 (축구 데이터) | R |
-| 4-2 | [`4-2-nonparametric-statistics`](./4-2-nonparametric-statistics) | 비모수통계학 | R |
-| 4-2 | [`4-2-multivariate-analysis`](./4-2-multivariate-analysis) | 다변량 자료분석 | R |
+| 학기 | 폴더 | 과목 | 주요 내용 | 언어 |
+|------|------|------|----------|------|
+| 1-1 | [`1-1-c-programming`](./1-1-c-programming) | C 프로그래밍 | C 기본 문법, 포인터, 배열, 중간/기말 코드 | C |
+| 1-2 | [`1-2-python-basics`](./1-2-python-basics) | 프로그래밍을 통한 문제해결 | 조건문·반복문·함수 등 Python 입문 과제 | Python |
+| 1-2 | [`1-2-java-programming`](./1-2-java-programming) | Java 프로그래밍 | OOP 기본 (상속/다형성), 기말 과제 | Java |
+| 2-1 | [`2-1-data-structures`](./2-1-data-structures) | 자료구조 및 알고리즘 | Linked List, Stack, Queue 직접 구현 | C |
+| 2-1 | [`2-1-system-programming`](./2-1-system-programming) | 시스템 프로그래밍 | fork/pipe 프로세스 통신, 파일 I/O | C |
+| 2-2 | [`2-2-algorithms`](./2-2-algorithms) | 알고리즘 | Prim, Dijkstra, Cut Vertex | Java, C++ |
+| 2-2 | [`2-2-database`](./2-2-database) | 데이터베이스 | B+Tree, Slotted Page (DBMS 내부 구조) | C++ |
+| 3-1 | [`3-1-statistical-computing`](./3-1-statistical-computing) | 통계전산처리 | Python 통계 기법 구현 (확률분포·검정·회귀) | Python, Jupyter |
+| 4-1 | [`4-1-regression-analysis`](./4-1-regression-analysis) | 회귀분석 텀 프로젝트 | 축구 선수 데이터 회귀 모델링 | R |
+| 4-2 | [`4-2-nonparametric-statistics`](./4-2-nonparametric-statistics) | 비모수통계학 | 부호/순위 검정, KDE, 비모수 회귀 | R |
+| 4-2 | [`4-2-multivariate-analysis`](./4-2-multivariate-analysis) | 다변량 자료분석 | PCA, 인자/군집/판별 분석 | R |
 
 ## 학기별 학습 내용
 
